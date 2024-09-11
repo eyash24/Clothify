@@ -1,0 +1,140 @@
+.
+├── admin
+│   ├── Admin Panel Assets.textClipping
+│   ├── README.md
+│   ├── index.html
+│   ├── node_modules
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── public
+│   │   └── vite.svg
+│   ├── src
+│   │   ├── App.jsx
+│   │   ├── Components
+│   │   │   ├── AddProduct
+│   │   │   │   ├── AddProduct.css
+│   │   │   │   └── AddProduct.jsx
+│   │   │   ├── ListProduct
+│   │   │   │   ├── ListProduct.css
+│   │   │   │   └── ListProduct.jsx
+│   │   │   ├── Navbar
+│   │   │   │   ├── Navbar.css
+│   │   │   │   └── Navbar.jsx
+│   │   │   └── SideBar
+│   │   │       ├── SideBar.jsx
+│   │   │       └── Sidebar.css
+│   │   ├── Pages
+│   │   │   └── Admin
+│   │   │       ├── Admin.css
+│   │   │       └── Admin.jsx
+│   │   ├── assets
+│   │   │   ├── Product_Cart.svg
+│   │   │   ├── Product_list_icon.svg
+│   │   │   ├── arrow_icon.svg
+│   │   │   ├── cross_icon.png
+│   │   │   ├── nav-logo.svg
+│   │   │   ├── nav-profile.svg
+│   │   │   ├── upload_area.svg
+│   │   │   └── upload_cloud_icon.svg
+│   │   ├── index.css
+│   │   └── main.jsx
+│   └── vite.config.js
+├── backend
+│   ├── index.js
+│   ├── node_modules
+│   ├── package-lock.json
+│   ├── package.json
+│   └── upload
+│       └── images
+└── frontend
+    ├── README.md
+    ├── node_modules
+    ├── package-lock.json
+    ├── package.json
+    ├── public
+    │   ├── favicon.ico
+    │   ├── index.html
+    │   ├── logo192.png
+    │   ├── logo512.png
+    │   ├── manifest.json
+    │   └── robots.txt
+    └── src
+        ├── App.css
+        ├── App.js
+        ├── App.test.js
+        ├── Components
+        │   ├── Assets
+        │   │   ├── arrow.png
+        │   │   ├── banner_kids.png
+        │   │   ├── banner_mens.png
+        │   │   ├── banner_women.png
+        │   │   ├── breadcrum_arrow.png
+        │   │   ├── cart_cross_icon.png
+        │   │   ├── cart_icon.png
+        │   │   ├── cart_product_icon.png
+        │   │   ├── dropdown_icon.png
+        │   │   ├── exclusive_image.png
+        │   │   ├── hand_icon.png
+        │   │   ├── hero_image.png
+        │   │   ├── instagram_icon.png
+        │   │   ├── logo.png
+        │   │   ├── logo_big.png
+        │   │   ├── pintester_icon.png
+        │   │   ├── star_dull_icon.png
+        │   │   ├── star_icon.png
+        │   │   └── whatsapp_icon.png
+        │   ├── Breadcrums
+        │   │   ├── Breadcrums.css
+        │   │   └── Breadcrums.jsx
+        │   ├── CartItems
+        │   │   ├── CartItems.css
+        │   │   └── CartItems.jsx
+        │   ├── DescriptionBox
+        │   │   ├── DescriptionBox.css
+        │   │   └── DescriptionBox.jsx
+        │   ├── Footer
+        │   │   ├── Footer.css
+        │   │   └── Footer.jsx
+        │   ├── Hero
+        │   │   ├── Hero.css
+        │   │   └── hero.jsx
+        │   ├── Item
+        │   │   ├── Item.css
+        │   │   └── Item.jsx
+        │   ├── Navbar
+        │   │   ├── Navbar.css
+        │   │   └── Navbar.jsx
+        │   ├── NewCollections
+        │   │   ├── NewCollections.css
+        │   │   └── NewCollections.jsx
+        │   ├── NewsLetter
+        │   │   ├── NewsLetter.css
+        │   │   └── NewsLetter.jsx
+        │   ├── Offers
+        │   │   ├── Offers.css
+        │   │   └── Offers.jsx
+        │   ├── Popular
+        │   │   ├── Popular.css
+        │   │   └── Popular.jsx
+        │   ├── ProductDisplay
+        │   │   ├── ProductDisplay.css
+        │   │   └── ProductDisplay.jsx
+        │   └── RelatedProducts
+        │       ├── RelatedProducts.css
+        │       └── RelatedProducts.jsx
+        ├── Context
+        │   └── ShopContext.jsx
+        ├── Pages
+        │   ├── CSS
+        │   │   ├── LoginSignup.css
+        │   │   └── ShopCategory.css
+        │   ├── Cart.jsx
+        │   ├── LoginSignup.jsx
+        │   ├── Product.jsx
+        │   ├── Shop.jsx
+        │   └── ShopCategory.jsx
+        ├── index.css
+        ├── index.js
+        ├── logo.svg
+        ├── reportWebVitals.js
+        └── setupTests.js
